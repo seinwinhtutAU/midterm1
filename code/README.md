@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# midterm1
-=======
 # WAD 2025 Midterm Skeleton Code
 
 This is the skeleton code for the WAD Midterm. Get the project code using one of these methods:
@@ -20,4 +17,3 @@ pnpm install
 ```bash
 pnpm run dev
 ```
->>>>>>> 67915c2 (Initial commit)
